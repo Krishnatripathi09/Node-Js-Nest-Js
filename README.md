@@ -1,3 +1,10 @@
+## 🖼️                                                                       Repository Logo
+
+<div align="center">
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="120" />
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="140" />
+</div>
+
 # Node.js and NestJS Learning Repository
 
 Welcome to my Node.js and NestJS learning repository! This repo documents my journey of mastering backend development with Node.js and NestJS, featuring various examples, projects, and implementations.
@@ -26,15 +33,6 @@ This repository is a collection of:
 - Beginner-friendly examples and explanations.
 - Hands-on projects to solidify learning.
 - Organized code for easy reference.
-
----
-
-## 🖼️ Repository Logo
-
-<div align="center">
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="120" />
-  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="140" />
-</div>
 
 ---
 
