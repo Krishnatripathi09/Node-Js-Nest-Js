@@ -1,3 +1,6 @@
 Node Js is a cross platform, Js runtime Environment which is built on top of chrome's v8 Engine. 
 It helps execute JS code outside web-browser's.It has event driven architecture capable of asynchronous 
 I/O.
+
+The need for creating Node was earlier that there were servers which were blocking 
+(Apache HTTP Server(Blocking Server)) so the Node was created which is a Non-Blocking I/O.
