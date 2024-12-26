@@ -5,3 +5,4 @@
 (function () {})(); //an IIFE
 
 //All the code of this mdoule will be wrapped in a IIFE like above then executed
+
