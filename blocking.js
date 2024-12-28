@@ -1,6 +1,6 @@
 const crypto = require("node:crypto");
 
-console.log("Hi World");
+console.log("I am called First :)");
 
 var a = 10893678;
 var b = 45678789;
@@ -24,5 +24,4 @@ function multiplyFn(x, y) {
 }
 
 var c = multiplyFn(a, b);
-
 console.log("Multiplication result is : ", c);
