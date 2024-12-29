@@ -15,5 +15,3 @@ function printA() {
 
 printA();
 console.log("last line of the file:");
-
-
