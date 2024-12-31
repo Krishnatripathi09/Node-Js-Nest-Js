@@ -8,3 +8,7 @@ The need for creating Node was earlier that there were servers which were blocki
 
 npm  is a tool that comes with Node.js,
  which is primarily used to manage packages (libraries or modules) in JavaScript.
+
+ Before installing a package in our project we need to create a package.json file by 
+ running npm init -y (to create a file with default settings) or npm init (if we want to configure it with manual 
+ settings)
