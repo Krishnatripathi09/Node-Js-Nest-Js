@@ -25,14 +25,17 @@ async function run() {
       city: "Pune",
       phoneNumber: "9876543211",
     };
-    //Write
+    //Write;
 
-    const result = await collection.insertOne(data);
-    console.log("Inserted Data ===>", result);
+    // const result = await collection.insertOne(data);
+    // console.log("Inserted Data ===>", result);
 
     //Read
     const findResult = await collection.find({}).toArray();
     console.log("Found document =>", findResult);
+
+    const countResult = await collection.countDocuments({});
+    console.log("Count of Documents in the User Collection =>", countResult);
   } finally {
     // Ensures that the client will close when you finish/error
     await client.close();
