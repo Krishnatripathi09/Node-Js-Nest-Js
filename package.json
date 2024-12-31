@@ -1,0 +1,16 @@
+{
+  "name": "node-full-learning",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <img src=\"https://nestjs.com/img/logo-small.svg\" alt=\"NestJS Logo\" width=\"120\" />\r   <img src=\"https://nodejs.org/static/images/logo.svg\" alt=\"Node.js Logo\" width=\"140\" />\r </div>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.12.0"
+  }
+}

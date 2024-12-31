@@ -4,3 +4,7 @@ I/O.
 
 The need for creating Node was earlier that there were servers which were blocking 
 (Apache HTTP Server(Blocking Server)) so the Node was created which is a Non-Blocking I/O.
+
+
+npm  is a tool that comes with Node.js,
+ which is primarily used to manage packages (libraries or modules) in JavaScript.
