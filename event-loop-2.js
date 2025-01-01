@@ -4,7 +4,7 @@ const a = 100;
 setImmediate(() => console.log("setImmediate"));
 
 Promise.resolve("Promise").then(console.log);
-
+console.log("I am printed before promise");
 fs.readFile("./file.txt", "utf-8", () => {
   console.log("File Reading C8");
 });
